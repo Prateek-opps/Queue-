@@ -4,9 +4,6 @@
 - **PRN:** 24070123077
 - **Class:** ENTC A3  
  ## Title:Implementation of Queue using Array in C++
-
----
-
 ## Aim  
 To implement a **Queue data structure** using arrays in C++ and perform basic operations such as **enqueue, dequeue, and display**.
 
