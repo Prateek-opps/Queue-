@@ -3,7 +3,7 @@
 - **Name:** Prateek Sinha  
 - **PRN:** 24070123077
 - **Class:** ENTC A3  
-- **Title:** Implementation of Queue using Array in C++
+  Title:** Implementation of Queue using Array in C++
 
 ---
 
